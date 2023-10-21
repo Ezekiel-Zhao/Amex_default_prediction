@@ -6,8 +6,8 @@ This competition is held by American Express which is a globally integrated paym
 
 
 Notice:
-1.Raw dataset is in the path: input/amex-default-prediction
-2.Pre-processed dataset is in the path: input/amex-data-integer-dtypes-parquet-format OR (https://www.kaggle.com/datasets/raddar/amex-data-integer-dtypes-parquet-format)
+1.Raw dataset is in the path: input/amex-default-prediction(Too big to upload, plz refer to  (https://www.kaggle.com/datasets/raddar/amex-data-integer-dtypes-parquet-format)
+2.Pre-processed dataset is in (https://www.kaggle.com/datasets/raddar/amex-data-integer-dtypes-parquet-format)
 3.Code/fe_process.py this process aims to generate new features, which would take less than an hour.
 4.Code/lgb.py  This is for training the Lgbm model
 5.Code/xbg.py This is for training Xgboost(Use GPU)
